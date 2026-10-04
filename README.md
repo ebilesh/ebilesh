@@ -1,12 +1,6 @@
 # Hi, I'm Abhilash <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <div id="badges">
-  <a href="https://matrix.to/#/@ostrichization:unredacted.org">
-    <img src="https://matrix.org/images/matrix-logo-white.svg" alt="Matrix Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/LittleAdIce">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools:
