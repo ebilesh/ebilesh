@@ -1,23 +1,29 @@
-# Hi, I'm Abhilash <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi, I'm Abhilash
 
-<div id="badges">
-</div>
+I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include piano practice analysis, a local file browser, and a Bluetooth lighting controller.
 
-### :hammer_and_wrench: Languages and Tools:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
+[Portfolio](https://abhilash.is-a.dev) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
 
----
+## Projects
 
-### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ebilesh)](https://git.io/streak-stats)
----
+### [Cadence](https://github.com/ebilesh/cadence)
 
-<!-- ### :musical_note: My Spotify: 
-![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=31l3keqcgnz5wxcdbe4j53f5rfwq&count=1)
-!-->
+Compare a piano take with a MIDI reference to find wrong pitches, missed notes, and uneven timing. The report connects individual notes to bars and practice exercises. The browser demo shows a saved sample report; the Python app analyzes new recordings locally.
+
+Python, FastAPI, React, librosa · [Sample report](https://cadence-piano.cadence-deployment.workers.dev) · [How the analysis works](https://github.com/ebilesh/cadence/blob/main/docs/architecture.md)
+
+### [Sift](https://github.com/ebilesh/sift)
+
+A local file workspace with search, previews, collections, and duplicate detection using SHA-256. The API is read-only: browsing and organizing collections leaves the original files untouched.
+
+TypeScript, React, Node.js
+
+### [Glow Control](https://github.com/ebilesh/GlowControl)
+
+A native iOS app for a compatible Bluetooth LED controller. It supports color and brightness controls, saved presets, hardware effects, and automatic reconnection.
+
+Swift, SwiftUI, Bluetooth LE
+
+## What I'm working toward
+
+I'm interested in CS internships where I can build software, learn from code reviews, and get better at testing and debugging.
