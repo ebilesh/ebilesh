@@ -1,16 +1,22 @@
 # Hi, I'm Abhilash
 
-I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include piano practice analysis, a local file browser, and a Bluetooth lighting controller.
+I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a piano practice studio, a payment failure lab, a local file browser, and a Bluetooth lighting controller.
 
 [Portfolio](https://abhilash.is-a.dev) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
 
 ## Projects
 
+### [Aftermath](https://github.com/ebilesh/aftermath)
+
+Reproduce payment delivery failures with real Python worker processes and SQLite transactions. Inject duplicate notifications, verification outages, and worker stops, then inspect recovery in an event timeline. An OS process-kill test checks that restart and replay leave exactly one credit. Payment inputs are synthetic; a separate read-only inspector queries real Solana transactions.
+
+Python, SQLite, React, TypeScript · [Release v0.1.0](https://github.com/ebilesh/aftermath/releases/tag/v0.1.0) · [Architecture and demo](https://github.com/ebilesh/aftermath#demo-and-architecture)
+
 ### [Cadence](https://github.com/ebilesh/cadence)
 
-Compare a piano take with a MIDI reference to find wrong pitches, missed notes, and uneven timing. The report connects individual notes to bars and practice exercises. The browser demo shows a saved sample report; the Python app analyzes new recordings locally.
+Transcribe piano audio into editable notes and MIDI, or compare a take with a reference to find pitch and timing errors by bar. The studio includes practice loops, notation, and browser-local sessions. New recordings use the local Python backend; the browser demo includes saved examples.
 
-Python, FastAPI, React, librosa · [Sample report](https://cadence-piano.cadence-deployment.workers.dev) · [How the analysis works](https://github.com/ebilesh/cadence/blob/main/docs/architecture.md)
+Python, FastAPI, React, librosa · [Sample report](https://cadence-piano.cadence-deployment.workers.dev) · [How the analysis works](https://github.com/ebilesh/cadence/blob/main/docs/architecture.md) · [Releases](https://github.com/ebilesh/cadence/releases)
 
 ### [Sift](https://github.com/ebilesh/sift)
 
