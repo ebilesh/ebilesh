@@ -1,10 +1,16 @@
 # Hi, I'm Abhilash
 
-I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a piano practice studio, a payment failure lab, a local file browser, and a Bluetooth lighting controller.
+I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a 3D calculus graphing tool, a piano practice studio, and a payment failure lab.
 
-[Portfolio](https://heyabhilash.com) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
+[Portfolio](https://heyabhilash.com) · [Try Orbit](https://heyabhilash.com/orbit/) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
 
 ## Projects
+
+### [Orbit](https://github.com/ebilesh/orbit)
+
+Explore multivariable calculus with interactive 3D surfaces, space curves, and vector fields. The browser app supports implicit multiplication and LaTeX previews, adaptive curve sampling, tangent vectors, numerical arc length, and JSON scene files.
+
+JavaScript, HTML, CSS, Canvas · [Open the graphing tool](https://heyabhilash.com/orbit/)
 
 ### [Aftermath](https://github.com/ebilesh/aftermath)
 
