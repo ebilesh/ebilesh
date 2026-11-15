@@ -2,7 +2,7 @@
 
 I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a piano practice studio, a payment failure lab, a local file browser, and a Bluetooth lighting controller.
 
-[Portfolio](https://abhilash.is-a.dev) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
+[Portfolio](https://heyabhilash.com) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
 
 ## Projects
 
