@@ -2,7 +2,7 @@
 
 I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a 3D calculus graphing tool, a piano practice studio, and a payment failure lab.
 
-[Portfolio](https://heyabhilash.com) · [Try Orbit](https://heyabhilash.com/orbit/) · [Try Cadence](https://cadence.heyabhilash.com/)
+[Portfolio](https://heyabhilash.com) · [Try Orbit](https://orbit.heyabhilash.com/) · [Try Cadence](https://cadence.heyabhilash.com/)
 
 ## Projects
 
@@ -10,7 +10,7 @@ I'm a high school student in New Jersey building web tools and iOS apps. My rece
 
 Explore multivariable calculus with interactive 3D surfaces, space curves, and vector fields. The browser app supports implicit multiplication and LaTeX previews, adaptive curve sampling, tangent vectors, numerical arc length, and JSON scene files.
 
-JavaScript, HTML, CSS, Canvas · [Open the graphing tool](https://heyabhilash.com/orbit/)
+JavaScript, HTML, CSS, Canvas · [Open the graphing tool](https://orbit.heyabhilash.com/)
 
 ### [Aftermath](https://github.com/ebilesh/aftermath)
 
