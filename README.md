@@ -2,7 +2,7 @@
 
 I'm a high school student in New Jersey building web tools and iOS apps. My recent projects include a 3D calculus graphing tool, a piano practice studio, and a payment failure lab.
 
-[Portfolio](https://heyabhilash.com) · [Try Orbit](https://heyabhilash.com/orbit/) · [Try Cadence](https://cadence-piano.cadence-deployment.workers.dev)
+[Portfolio](https://heyabhilash.com) · [Try Orbit](https://heyabhilash.com/orbit/) · [Try Cadence](https://cadence.heyabhilash.com/)
 
 ## Projects
 
@@ -22,7 +22,7 @@ Python, SQLite, React, TypeScript · [Release v0.1.0](https://github.com/ebilesh
 
 Transcribe piano audio into editable notes and MIDI, or compare a take with a reference to find pitch and timing errors by bar. The studio includes practice loops, notation, and browser-local sessions. New recordings use the local Python backend; the browser demo includes saved examples.
 
-Python, FastAPI, React, librosa · [Sample report](https://cadence-piano.cadence-deployment.workers.dev) · [How the analysis works](https://github.com/ebilesh/cadence/blob/main/docs/architecture.md) · [Release v1.2.0](https://github.com/ebilesh/cadence/releases/tag/v1.2.0)
+Python, FastAPI, React, librosa · [Sample report](https://cadence.heyabhilash.com/) · [How the analysis works](https://github.com/ebilesh/cadence/blob/main/docs/architecture.md) · [Release v1.2.0](https://github.com/ebilesh/cadence/releases/tag/v1.2.0)
 
 ### [Sift](https://github.com/ebilesh/sift)
 
